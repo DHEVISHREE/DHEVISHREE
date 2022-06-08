@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps and Cloud
 - 🌱 I’m currently learning IAAC
 - 💞️ I’m looking to collaborate on New DevOps Tools
-- 📫 How to reach me Slack ... 
+- 📫 How to reach me Discord ID - awesome_maima#8889 ... 
 
 <!---
 DHEVISHREE/DHEVISHREE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
