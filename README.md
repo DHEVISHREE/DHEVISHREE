@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DHEVISHREE
 - 👀 I’m interested in DevOps and Cloud
-- 🌱 I’m currently learning IAAC
+- 🌱 I’m have experience with IaC and python as well
 - 💞️ I’m looking to collaborate on New DevOps Tools
 - 📫 How to reach me Discord ID - awesome_maima#8889 ... 
 
